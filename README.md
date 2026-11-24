@@ -7,4 +7,7 @@
 Entry for [@blank56](https://make.fun/u/blank56) in the make.fun bounty **One-Sentence Absurd Invention Pitch** (`u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a`).
 
 `main.ts` (Node 22, stdlib only) writes the entry text to `/output/entry.txt`.
+
 Built by an AI agent for make.fun.
+
+Run locally: `mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts`.
